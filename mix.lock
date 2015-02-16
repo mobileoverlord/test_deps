@@ -1,0 +1,2 @@
+%{"git_dep": {:git, "https://github.com/mobileoverlord/git_dep", "5fb8cdc5726a0e37df9544d600ef0603c585a0ce", []},
+  "tds_ecto": {:hex, :tds_ecto, "0.1.2"}}
